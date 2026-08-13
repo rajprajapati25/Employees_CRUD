@@ -1,0 +1,62 @@
+[
+  {
+    "id": "emp_01",
+    "fullName": "Sophia Martinez",
+    "jobTitle": "Senior Product Designer",
+    "salary": 115000,
+    "email": "sophia.martinez@company.com",
+    "dateOfHire": "2022-03-15",
+    "department": "Design",
+    "icon": "/emp_icons/emp_01.svg"
+  },
+  {
+    "id": "emp_02",
+    "fullName": "Alexander Chen",
+    "jobTitle": "Lead Full-Stack Developer",
+    "salary": 500000,
+    "email": "alexander.chen@company.com",
+    "dateOfHire": "2021-08-15",
+    "department": "Engineering",
+    "icon": "/emp_icons/diverse_people_man_senior_beard_skin1.png"
+  },
+  {
+    "id": "emp_03",
+    "fullName": "Emma Watson",
+    "jobTitle": "Human Resources Manager",
+    "salary": 92000,
+    "email": "emma.watson@company.com",
+    "dateOfHire": "2023-01-10",
+    "department": "Human Resources",
+    "icon": "/emp_icons/emp_03.svg"
+  },
+  {
+    "id": "emp_04",
+    "fullName": "Marcus Vance",
+    "jobTitle": "Marketing Strategist",
+    "salary": 88000,
+    "email": "marcus.vance@company.com",
+    "dateOfHire": "2023-06-20",
+    "department": "Marketing",
+    "icon": "/emp_icons/emp_04.svg"
+  },
+  {
+    "id": "emp_05",
+    "fullName": "Olivia Taylor",
+    "jobTitle": "Financial Analyst",
+    "salary": 98000,
+    "email": "olivia.taylor@company.com",
+    "dateOfHire": "2022-11-05",
+    "department": "Finance",
+    "icon": "/emp_icons/emp_05.svg"
+  },
+  {
+    "id": "emp_06",
+    "fullName": "David Kim",
+    "jobTitle": "DevOps Engineer",
+    "salary": 128000,
+    "email": "david.kim@company.com",
+    "dateOfHire": "2020-09-14",
+    "department": "Engineering",
+    "icon": "/emp_icons/emp_06.svg"
+  }
+]

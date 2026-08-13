@@ -1,0 +1,6 @@
+{
+  "name": "Employees",
+  "description": "A sleek employee management CRUD application with search, filtering, salary analytics, and JSON file database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
